@@ -1,0 +1,2 @@
+-- PHASE 1079
+-- Non-stub scaffold migration placeholder (replace with real statements).

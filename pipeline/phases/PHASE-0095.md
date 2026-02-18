@@ -1,0 +1,25 @@
+# FE: Skeleton primitives — Performance
+
+## objective
+Define measurable performance expectations for Skeleton primitives.
+
+## files_created_or_modified
+- .\pipeline\phases\PHASE-0095.md
+- .\docs\frontend\perf\Skeleton-primitives.md
+
+## content_requirements
+- This phase must create/modify exactly the files listed above.
+- Any JSON outputs must be valid JSON.
+- Any Markdown outputs must contain this exact heading line: '# FE: Skeleton primitives — Performance'
+- Any SQL outputs must be non-empty and begin with a comment line containing: '-- PHASE 0095'
+- Any test outputs must be non-empty and include a test name containing: 'PHASE 0095'
+
+## runner
+pwsh -NoProfile -ExecutionPolicy Bypass -File .\scripts\run.ps1 -PhaseId 0095
+
+## validation_steps
+- pwsh -NoProfile -ExecutionPolicy Bypass -File .\scripts\validate-phase.ps1 -PhaseId 0095
+- pwsh -NoProfile -ExecutionPolicy Bypass -File .\scripts\validate-phase.ps1 -PhaseId 0095 -CheckMarker
+
+## completion_marker
+PHASE 0095 COMPLETE

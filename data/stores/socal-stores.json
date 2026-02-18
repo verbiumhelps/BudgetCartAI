@@ -1,0 +1,5 @@
+[
+  { "id": "store_ralphs_demo", "region": "socal", "displayName": "Ralphs (Demo)", "chainKey": "ralphs" },
+  { "id": "store_vons_demo", "region": "socal", "displayName": "Vons (Demo)", "chainKey": "vons" },
+  { "id": "store_traderjoes_demo", "region": "socal", "displayName": "Trader Joe's (Demo)", "chainKey": "trader_joes" }
+]

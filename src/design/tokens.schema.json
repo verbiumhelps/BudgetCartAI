@@ -1,0 +1,5 @@
+{
+  "phase": "0002",
+  "title": "FE: Design tokens lock — Implementation",
+  "objective": "Freeze token schema and enforce runtime validation."
+}

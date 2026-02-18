@@ -1,0 +1,6 @@
+{
+  "phase": "1127",
+  "title": "Growth: Paywall experiment harness",
+  "objective": "Add deterministic experiment config schema + validation harness.",
+  "generated_scaffold": true
+}

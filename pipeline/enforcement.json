@@ -1,0 +1,6 @@
+{
+  "enforcement_mode": true,
+  "disallow_stubs": true,
+  "run_npm": true,
+  "npm_prefer_ci": true
+}

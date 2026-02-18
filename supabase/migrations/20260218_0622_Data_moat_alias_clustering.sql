@@ -1,0 +1,2 @@
+-- PHASE 0622
+-- Non-stub scaffold migration placeholder (replace with real statements).

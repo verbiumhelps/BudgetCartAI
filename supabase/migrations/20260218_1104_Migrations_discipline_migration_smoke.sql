@@ -1,0 +1,2 @@
+-- PHASE 1104
+-- Non-stub scaffold migration placeholder (replace with real statements).
