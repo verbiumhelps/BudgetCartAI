@@ -1,0 +1,7 @@
+{
+  "cycle_id": "v2",
+  "phase_start": 2000,
+  "phase_cap": 2999,
+  "base_tag": "v1.0-phase-ring",
+  "sealed_v1": true
+}
